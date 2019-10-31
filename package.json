@@ -1,0 +1,24 @@
+{
+  "name": "cordova-deploy",
+  "version": "1.0.0",
+  "description": "Cordova Deployment Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erisu/cordova-deploy.git"
+  },
+  "keywords": [
+    "cordova",
+    "deploy",
+    "deployment"
+  ],
+  "author": "Erisu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/erisu/cordova-deploy/issues"
+  },
+  "homepage": "https://github.com/erisu/cordova-deploy#readme"
+}
